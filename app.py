@@ -6,3 +6,4 @@ data = excess
 value -102
 pull expo
 improve exert;
+revert on time
