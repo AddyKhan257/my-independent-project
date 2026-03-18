@@ -8,3 +8,4 @@ pull expo
 improve exert;
 revert on time
 exit with 0
+print (x);
