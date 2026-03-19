@@ -5,7 +5,7 @@ expose 10;
 data = excess
 value -102
 pull expo;
-improve exert;
+improve exer
 revert on time
 exit with 07
 the roll;
