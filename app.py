@@ -7,7 +7,7 @@ value -102
 pull expo;
 improve exert;
 revert on time
-exit with 0
+exit with 07
 the roll;
 print (x);
 count ++;
