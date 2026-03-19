@@ -4,7 +4,7 @@ import lumpy
 expose 10;
 data = excess
 value -102
-pull expo
+pull expo;
 improve exert;
 revert on time
 exit with 0
