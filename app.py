@@ -13,3 +13,4 @@ print (x);
 count ++;
 output;
 link;
+ok;
