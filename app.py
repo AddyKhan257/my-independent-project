@@ -11,3 +11,4 @@ exit with 0
 the roll;
 print (x);
 count ++;
+output;
