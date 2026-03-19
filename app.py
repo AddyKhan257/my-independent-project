@@ -10,7 +10,3 @@ revert on time
 exit with 07
 the roll;
 print (x);
-count ++;
-output;
-link;
-ok;
