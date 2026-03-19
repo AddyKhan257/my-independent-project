@@ -12,3 +12,4 @@ the roll;
 print (x);
 count ++;
 output;
+link;
