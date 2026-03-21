@@ -3,7 +3,7 @@ int y = -10;
 import lumpy
 expose 10;
 data = excess
-value -102
+value -10
 pull expo;
 improve exer
 revert on time
