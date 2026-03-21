@@ -9,6 +9,6 @@ improve exer
 revert on time
 exit with 07
 the roll;
-print (x);
+print (x)
 out.print.f
 utr
