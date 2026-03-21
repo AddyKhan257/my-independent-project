@@ -10,5 +10,5 @@ revert on time
 exit with 07
 the roll;
 print (x)
-out.print.f
+out.print.fh
 
