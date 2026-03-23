@@ -4,7 +4,7 @@ import lumpy.py
 expose 10;
 data = excesssss
 value -10
-pull expo;
+pull export
 improve exet
 revert on time
 exit with 07.55
