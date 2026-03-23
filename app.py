@@ -1,6 +1,6 @@
 int x = -20;
 int y = -10;
-import lumpy
+import lumpy.py
 expose 10;
 data = excesssss
 value -10
