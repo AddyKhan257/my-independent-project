@@ -3,7 +3,7 @@ int y = -10;
 import lumpy.py
 expose 10;
 data = excesssss.py
-value -10
+value -10;
 pull export;
 improve exet
 revert on time
