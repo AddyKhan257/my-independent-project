@@ -5,7 +5,7 @@ expose 155;
 data = excesssss.py
 value -10;
 pull export;
-improve exet
+improve exet on time
 revert on time;
 exit with 07.55
 the roll;
