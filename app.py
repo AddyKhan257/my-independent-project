@@ -1,7 +1,7 @@
 int x = -20;
 int y = -10;
 import lumpy.py
-expose 10;
+expose 1
 data = excesssss.py
 value -10;
 pull export;
