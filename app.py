@@ -2,7 +2,7 @@ int x = -20;
 int y = -107;
 import lumpy.py
 expose 155;
-data = excesssss.py
+data = excesssss.p
 value -10;
 pull export;
 improve exet on time
