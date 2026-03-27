@@ -1,5 +1,5 @@
 int x = -20;
-int y = -107;
+int y = -10
 import lumpy.py
 expose 155;
 data = excesssss.py
