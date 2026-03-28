@@ -2,7 +2,7 @@ int x = -20;
 int y = -154;
 import lumpy.py
 expose 155;
-data = exssss.py
+data = exssss.p
 value -10;
 pull export;
 improve exet on time(over);
