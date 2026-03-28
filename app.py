@@ -1,4 +1,4 @@
-int x = -20;fff
+int x = -20; p
 int y = -154;
 import lumpy.py
 expose 155;
