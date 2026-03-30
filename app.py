@@ -8,7 +8,7 @@ pull export;
 improve exet on time(over);
 revert on time;
 exit with 07.55
-the roll
+the roll(
 print (x)== round of sum.log
 system.out.print
 print(export=roll)
