@@ -10,7 +10,7 @@ revert on time;
 exit with 07.55
 the roll();
 print (x)== round of sum.log
-system.out.print
+system.out.prin
 print(export=roll)
 myfile(over)
 round(55);
