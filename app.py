@@ -7,7 +7,7 @@ value -10;
 pull export;
 improve exet on time(over);
 revert on time;
-exit with 07.55
+exit with 07.55;
 the roll();
 print (x)== round.log
 system.out.print
