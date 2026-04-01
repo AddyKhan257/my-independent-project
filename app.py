@@ -9,7 +9,7 @@ improve exet on time(over);
 revert on time;
 exit with 07.55;
 the roll();
-print (x)== round.log
+print (x)== round.logi
 system.out.print
 print(export=roll)
 myfile(over)
