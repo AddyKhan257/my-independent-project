@@ -1,6 +1,6 @@
 int x = -20;
 int y = -154;
-import lumpy.py
+import lumpy.pym
 expose 155;
 data = exssss.py
 value -10;
