@@ -20,7 +20,7 @@ point.round()
 # round lies in formation gummy it for the one
 # 11 out formation 
 # deployment is first for the version of release 
-# request is always promoted to first term of code is never been rejected initially stage at staggin problem 📈
+# request is always promoted to first term of code is never been rejected initially stage staggin problem 📈
 for i = 0
     j = i+ 10 
 
