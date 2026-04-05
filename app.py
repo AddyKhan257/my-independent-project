@@ -18,7 +18,7 @@ point.round()
 # "rounds" "square"
 # raw as on top
 # round lies in formation gummy it for the one
-# 11 out formation 
+# 11 out format 
 # deployment is first for the version of release 
 # request is always promoted to first term of code is never been rejected initially stage staggin problem 📈
 for i = 0
