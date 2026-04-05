@@ -17,6 +17,7 @@ round(55);
 point.round()
 # "rounds" "square"
 # raw as on top
-#round lies in formation gummy it for the one
-#11 out formation 
-#deployment is first for the version of release 
+# round lies in formation gummy it for the one
+# 11 out formation 
+# deployment is first for the version of release 
+# request is always promoted to first term of code is never been rejected initially stage at staggin problem 📈
