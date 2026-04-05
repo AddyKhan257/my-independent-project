@@ -16,7 +16,7 @@ myfile(over);
 round(55);
 point.round();
 # "rounds" "square"
-# raw as on top
+# raw as on to
 # round lies in formation gummy it for the one
 # 11 out format 
 # deployment is first for the version of release 
