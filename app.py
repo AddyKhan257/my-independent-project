@@ -1,4 +1,4 @@
-iint x = -20;
+wwwiint x = -20;
 int y = -154;
 import lumpy.pym
 expose 155;
@@ -31,4 +31,4 @@ for i = 0
 
 the roustes end the rinfff on depends the  rejected by the way more and more over versatile and the ended commodity over it committed on right way of message of courses in the group on staff 
 rounds off
-minor changes 
+minor changes round off 
