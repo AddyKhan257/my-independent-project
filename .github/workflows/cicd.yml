@@ -3,6 +3,18 @@ name: cicd-action
 on: 
 # manual click(deliver) when user needs
   workflow_dispatch:
+    inputs:
+      environment:
+        description: This is environment where this workflows 
+        default: 'dev'
+        required: true
+        type: choice
+        options:
+          - 'dev'
+          - 'prod'
+          - 'stagging'
+       
+    
 
 jobs:
 #every jobs needs a seperate runner,its called parallelism
@@ -24,6 +36,7 @@ jobs:
       - name: test the code
         run: echo "testing code"
   deploy:
+    
     needs: [test,build,code]
     runs-on: ubuntu-latest
     steps:
