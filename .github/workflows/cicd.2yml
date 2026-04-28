@@ -5,7 +5,7 @@ on:
   push:
     branches: [main]
     paths:
-      - '**.html'
+      - '**.py'
 
 jobs:
 #every jobs needs a seperate runner,its called parallelism
