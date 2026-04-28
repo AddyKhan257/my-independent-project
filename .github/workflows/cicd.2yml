@@ -1,0 +1,34 @@
+name: cicd-action
+
+on: 
+#automatic trigger (deployment)
+  push:
+    branches: [main]
+    paths:
+      - '**.html'
+
+jobs:
+#every jobs needs a seperate runner,its called parallelism
+  code:
+    runs-on: ubuntu-latest
+    steps:
+      - name: code of app
+        run : echo "git checkout"
+  build:
+    needs: code
+    runs-on: ubuntu-latest
+    steps:  
+      - name: build the code by container
+        run: echo "docker build"
+  test:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: test the code
+        run: echo "testing code"
+  deploy:
+    needs: [test,build,code]
+    runs-on: ubuntu-latest
+    steps:
+      - name: deploy code
+        run: echo "docker compose build code"
