@@ -1,0 +1,26 @@
+name: cicd-action
+
+on: 
+  workflow_dispatch:
+
+jobs:
+  code:
+    runs-on: ubuntu-latest
+    steps:
+      - name: code of app
+        run : echo "git checkout"
+  build:
+    runs-on: ubuntu-latest
+    steps:  
+      - name: build the code by container
+        run: echo "docker build"
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: test the code
+        run: echo "testing code"
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: deploy code
+        run: echo "docker compose build code"
