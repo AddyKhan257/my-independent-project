@@ -1,9 +1,11 @@
 name: cicd-action
 
 on: 
+# manual click(deliver) when user needs
   workflow_dispatch:
 
 jobs:
+#every jobs needs a seperate runner,its called parallelism
   code:
     runs-on: ubuntu-latest
     steps:
