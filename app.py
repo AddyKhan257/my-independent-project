@@ -1,4 +1,4 @@
-yeyewwwiint x = -20;
+uyeyewwwiint x = -20;
 int y = -154;
 import lumpy.pym
 expose 155;
@@ -19,7 +19,7 @@ point.round();
 # raw as on top of the changes
 # round lies in formation gummy it for the one
 # 11 out format 
-# deployment is first for the version of  random release 
+# deployment is first for the version of  random release boom
 # requested is always promoted to first term of        code is never been rejected initially stage composition staggin problem 📈 on mix of two  integers
 
 for i = 0
