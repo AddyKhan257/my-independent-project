@@ -20,7 +20,7 @@ point.round();
 # round lies in formation gummy it for the one
 # 11 out format ✔️
 # deployment is first for the version of  random release boom
-# requested is always promoted to first term of        code is never been rejected initially stage composition staggin problem 📈 on mix of two  integers
+# requested is always prom🫡oted to first term of        code is never been rejected initially stage composition staggin problem 📈 on mix of two  integers
 
 for i = 0
     j = i+ 10 
