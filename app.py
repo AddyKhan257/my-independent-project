@@ -1,6 +1,6 @@
 float(int) x = -20;
-int y = -154!rex
-;
+int y = -154;
+(group)[file.com]
 import lumpy.pym
 expose 155;
 data = exssss.py
