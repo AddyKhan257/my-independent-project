@@ -1,4 +1,5 @@
-..ek💯💯uyeyewwwiint x = -20;
+..e
+uyeyewwwiint x = -20;
 int y = -154!rex
 ;
 import lumpy.pym
