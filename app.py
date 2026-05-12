@@ -1,4 +1,4 @@
-float(int) x = -20;
+tifloat(int) x = -20;
 int y = -154;
 (group)[file.com]
 import lumpy.pym
