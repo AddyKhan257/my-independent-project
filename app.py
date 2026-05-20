@@ -1,4 +1,4 @@
-hthetifloat(int) x = -20;
+rehthetifloat(int) x = -20;
 int y = -154;
 (group)[file.com]
 import lumpy.pym
