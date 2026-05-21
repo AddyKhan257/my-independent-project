@@ -17,7 +17,7 @@ myfile(over); agian
 round(55);
 point.round();
 # "rounds" "square"
-# raw as on top of the changes mandantory
+# rmaw as on top of the changes mandantory
 # round lies in formation gummy it for the one
 # 11 out format ✔️
 # depmazloyment is first for the version of  random h bbboom over
