@@ -30,7 +30,7 @@ for i = 0
     i++
     j++
     print (Hello chants)
-    code x;
+    code x
 
 the roustes end th routes() on depends the offers  rejected by the way more and more over versatile and the ended commodity over it committed on right way of message of courses in the group on staff 
 rounds off
