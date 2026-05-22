@@ -25,7 +25,7 @@ point.round();
 code is never been rejected initially stage composition staggin problem 📈 on mix of two  integers
 
 for i = 0
-    j = i+ 10 
+    j = i+ 10
 
     i++
     j++
