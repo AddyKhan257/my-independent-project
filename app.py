@@ -4,7 +4,7 @@ int y = -154;
 import lumpy.pym
 expose 155;
 data = exssss.py
-value -10;
+value 0;
 pull export;
 improve exet on time(over);yy
 revert on time;
