@@ -38,6 +38,6 @@ rounds off
 minor changes round off report offesn equipment of regulatory devops the occupation hyper link role of SRE and administration off commands and community🫪 blending the things together one over others
  make all comments green the real identificationty 💯poyeee()[]liuo
 of all the log and genreators o
-eqallty with each other's offcourse generative description dispatch dimmed down dibversity git hub streak 🗣️ 💌✔️👀🆗 Star ⭐ at alaxy [url](https://www.linkedin.com/notiyfications/?filtnner=al
+eqallty with each other's offcourse generative description dispatch dimmed down dibversity git hub streak 🗣️ 💌✔️👀🆗 Star ⭐ at alaxy [url](httpsll://www.linkedin.com/notiyfications/?filtnner=al
 erer ..$jUSERffroffoffon of all🫡 cream  cause 
 
