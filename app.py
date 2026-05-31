@@ -21,7 +21,7 @@ point.round();
 # round lies in formation gummy it fo
 hhr the one
 # 11 out format 
-# depmazloymffent is first for the rsion of  random h bbbojjom 
+# depmazloymffrfent is first for the rsion of  random h bbbojjom 
 #  is always prom🫡oted to first term of goated form form
 code is never been rejected initially stage composition staggin problem 📈 on mix of two  integers
 
