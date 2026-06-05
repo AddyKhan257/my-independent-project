@@ -1,4 +1,4 @@
-ye yyrabove allchuuurehthetifloat(int) x = -20;
+mye yyrabove allchuuurehthetifloat(int) x = -20;
 int y = -154;
 (group)[fbbile.com]
 import lumpy.pym
@@ -16,7 +16,7 @@ print(export=roll)
 myfile(over); agian
 round(55);
 point.round();
-# "rounds" "square"
+# "rounds" "ksquare"
 # rmaw as on top of the changes mandantory
 # round lies in formation gummy it fo
 hhr the one
