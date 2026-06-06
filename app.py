@@ -26,7 +26,7 @@ hhr the one
 code is never been rejected initially stage composition staggin problem 📈 on mix of two  integers
 
 for i = 0
-    j = i+ 10
+    j = i+ 10hh
 
     i++
     j++
