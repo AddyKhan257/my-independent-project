@@ -22,7 +22,7 @@ point.round();
 hire at once good opportunity
 not 
 # depmazloymffrfent is first for the rsion of  random h bbbojjom 
-#  is always prom🫡oted to first term of goated form form
+#  is alwllays prom🫡oted to first term of goated form form
 code is never been rejected initially stage composition staggin problem 📈 on mix of two  integers
 
 for i = 0
