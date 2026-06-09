@@ -10,7 +10,7 @@ improve exet on time(over);yy
 revert on time;
 exit with 07.55;
 the roll();
-pri (iix)== round.log
+pri (iixki)== round.log
 system.out.print
 print(export=roll)
 myfile(over); agian
