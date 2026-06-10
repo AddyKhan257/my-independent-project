@@ -8,7 +8,7 @@ value 0;
 pull export;
 improve exet on time(over);yy
 revert on time;
-exit with 07.55;
+exit with 07.55;A
 the roll();
 pri (iixki)== round.log
 system.out.print
