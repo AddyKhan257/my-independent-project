@@ -16,7 +16,7 @@ print(export=roll)
 myfile(over); agian
 round(55);
 point.round();
-# "rounds" "ksquarkke"
+# "roundst" "ksquarkke"
 # rmaw as on nnbb of the changes mandantory
 # roussnd lies in formation gummy it fo
 hifre at once good opportunity
