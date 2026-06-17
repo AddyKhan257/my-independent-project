@@ -11,7 +11,7 @@ revert on time;
 exit with 07.55;A
 the roll();
 pri (iixki)== round.log
-system.out.print
+lulu
 print(export=roll)
 myfile(over); agian
 round(55);
