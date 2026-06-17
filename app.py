@@ -19,7 +19,7 @@ point.round();
 # "roundst" "ksquarkke"
 # rmaw as on nnbb of the changes mandantory
 # roussnd lies in formation gummy it fo
-hifre at once good opportunity
+hifrat once good opportunity
 not okll
 # depmazloymffrfent is first for the rsion of  random h bbbojjom 
 #  is alwllays prom🫡oted to first term of goated form form
