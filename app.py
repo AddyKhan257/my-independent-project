@@ -26,7 +26,7 @@ not okll
 code is never been rejected initially stage compositiokkrn staggin problem 📈 on mix of two  integers
 
 for i = 0
-    j = i+ 10hh
+    j = i+ 10hhujj
 
     i++
     j++
