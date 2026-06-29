@@ -25,8 +25,8 @@ not okllbbgg
 #  is alwllays prom🫡oted to first term of goated form form
 code is never been rejected initially stage compositiokkrn staggin problem 📈 on mix of two  integers
 
-for i = 0
-    j = i+ 10hhujj
+forjuuhh i = 0
+    j = i+ 10hhujjyy
 
     i++
     j++
