@@ -18,7 +18,7 @@ round(55);
 point.round();
 # "roundst" "ksquarkke"
 # rmaw as on nnbb of the changes mandantory
-# roussnd lies in formation gummy it fo
+# roussnd lies in formation guhhmmy it fo
 hifrat bbonfrce good opportunitygjjgghoo
 not obbtubhytrujjiimmyyroo
 # depmazloymffrfent is first for the rsion of  random h bbbojjom 
