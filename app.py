@@ -16,11 +16,11 @@ print(export=roll)
 myfile(over); agian
 round(55);
 point.round();
-# "roundst" "ksquarkke"
+# "rounds
 # rmaw as on nnbb of the changes mandantory
-# roussnd lies in formation guhhmrudmy it fo
-hifrat bbonfrce good opportunitygjjgghhhoo
-not obbtubhfytdfrujjiimmyyrooyugtr
+# roues in formation guhhmrudmy it fo
+ bbonod opportunitygjjgghhhoo
+not yyrooyugtr
 # depmazloymffrfent is first for the rsion of  random h bbbojjom 
 #  is alwllays prom🫡oted to first term of goated form form
 code is never been rejected initially stage compositiokkrn staggin  📈 on mix of two  integers
