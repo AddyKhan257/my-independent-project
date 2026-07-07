@@ -10,7 +10,7 @@ improve exet on time(over);yyj
 revert on time;
 exit with 07.55;A
 the roll();
-pri (iixki)== round.log
+pri (iixki)== rouhhnd.log
 lulu
 print(export=roll)
 myfile(over); agian
