@@ -26,7 +26,7 @@ not yyrooyugtr. round (${git.yoken})
 code is never been rejected initially stage compositiokkrn staggin  📈 on mix of two  integers
 
 forjuuhh i = 0
-    j = i+ 10hhujjyy
+    j = i+ 10hhujjyyttt
 
     i++
     j++
