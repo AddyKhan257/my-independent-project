@@ -23,8 +23,7 @@ point.rouzànd();
 not yyrooyugtr. round (${git.yoken})
 # depmazloymffrfent is first for the rsion of  random h bbbojjom 
 #  is alwllays prom🫡oted to first term of goated form form
-code is never been rejected initially stage compositiokkrn staggin  📈 on mix of two  integers
-
+code is never been rejected initially stage compositiokkrn staggin  📈 on mix of two  intege
 forjuuhh i = 0
     j = i+ 10hhujjyyttt
 
