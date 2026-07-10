@@ -21,7 +21,7 @@ point.rouzànd();
 # roues in formation guhhmrudmy it fo
  bbonod opportunitygjjgghhhoo
 not yyrooyugtr. round (${git.yoken})
-# depmazloymffrfent is first for the rsion of  random h bbbojjom 
+# depmazloymffrfent is first fohhr the rsion of  random h bbbojjom 
 #  is alwllays prom🫡oted to first term of goated form form
 code is never been rejected initially stage compositiokkrn staggin  📈 on mix of two  intege
 forjuuhh i = 0
