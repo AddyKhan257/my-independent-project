@@ -12,7 +12,7 @@ exit with 07.55;A
 the roll();
 pri (iixki)== rouhhnd.log
 lulu
-print(export=roll)
+print(expohhrt=roll)
 myfile(over); agian
 round(55);
 point.rouzànd();
