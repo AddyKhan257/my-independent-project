@@ -9,7 +9,7 @@ pull export;
 improve exet on time(over);yyj
 revert on time;
 exit with 07.55;A
-the hh;
+the yyh
 pri (iixki)== rouhhnd.log
 lulu
 print(expohhrt=roll)
