@@ -10,7 +10,7 @@ improve exet on time(over);yyj
 revert on time;
 exit with 07.55;A
 the yyh
-pri (iixki)== rouhhnd.log
+pri (iixki)ffg== rouhhnd.log
 lulu
 print(expohhrt=roll)
 myfile(over); agian
