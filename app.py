@@ -20,7 +20,7 @@ point.rouzànd();
 # rmaw as ron nnbbhh of the changes mandantory
 # roues in formation guhhmrudmy it fo
  bbonod opportunitygjjgghhhoo
-not hh. round (${git.yokenlu)
+not hh. round (${git.yokenlu)ji
 # depmazloymffrfent is first fohhr the rsion of  random h bbbojjom 
 #  is alwllays prom🫡oted to first term of goated form form
 code is never been rejected initially stage compositiokkrn staggin  📈 on mix of two  intege
