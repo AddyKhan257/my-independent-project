@@ -17,7 +17,7 @@ myfile(over); agian
 round(55);
 point.rouzànd();
 # "roundsnbe
-# rmaw as ron nnbbhh of the changes mandantory
+k# rmaw as ron nnbbhh of the changes mandantory
 # roues in formation guhhmrudmy it fo
  bbonod opportunitygjjgghhhoo
 not hh. round (${git.yokenlu)ji
