@@ -12,7 +12,7 @@ exit with 07.55;A
 the yyhnnee
 pri nn rouhhnd.log
 lul
-print(kkexport=roll)
+print(kiikexport=roll)
 myfile(over); agian
 round(55);kk
 point.rouzànd();
