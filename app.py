@@ -11,7 +11,7 @@ revert on time;
 exit with 07.55;A
 the yyhnnee
 pri (iixki)ffg== rouhhnd.log
-lulu
+lul
 print(export=roll)
 myfile(over); agian
 round(55);
