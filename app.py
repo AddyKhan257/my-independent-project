@@ -14,7 +14,7 @@ pri (iixki)ffg== rouhhnd.log
 lul
 print(export=roll)
 myfile(over); agian
-round(55);
+round(55);kk
 point.rouzànd();
 # "roundsnbe
 k# rmaw as ron nnbbhh of the changes mandantory
