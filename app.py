@@ -18,7 +18,7 @@ round(55);kk
 point.rouzànd();
 # "roundsnbe
 k# rmaw as ron nnbbhh of the changes mandantory
-# roues in formation guhhmrudmy it fo
+# roues in formation guhhmrudmy it fohh
  bbjjonod opportunitygjjgghhhoo
 not hh. round (${git.yokenlu)ji
 # depmazloymffrfent is first fohhr the rsion of  random h bbbojjom 
