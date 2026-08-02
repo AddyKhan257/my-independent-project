@@ -9,7 +9,7 @@ pull export;
 improve exet on time(over);yyj
 revert on time;
 exit with 07.55;A
-the yyhnnee
+kl yyhnnee
 pri nn rouhhnd.log
 lul
 printkkii(kiikexport=roll)
