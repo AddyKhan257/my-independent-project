@@ -12,7 +12,7 @@ exit with 07.55;A
 the yyhnnee
 pri nn rouhhnd.log
 lul
-printkk(kiikexport=roll)
+printkkii(kiikexport=roll)
 myfile(over); agian
 round(55)ii;kk
 point.rouiiizànd();
