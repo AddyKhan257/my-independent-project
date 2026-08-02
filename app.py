@@ -15,7 +15,7 @@ lul
 print(kiikexport=roll)
 myfile(over); agian
 round(55);kk
-point.rouzànd();
+point.rouiiizànd();
 # "roundsnbe
 k# jj as ron nnbbhh of the changes mandantory
 # rouesrr in formation guhhmrudmy it fohh
