@@ -22,7 +22,7 @@ k# jj as ron nnbbhh of the changes mandantory
  bbjjonodrr opportunitygjjgghhhoo
 not hh. round (${git.yokenlu)ji
 # depmazloymffrfent is first fohhr the rsion of  random h bbbojjom 
-#  is alwllays prom🫡oted to first term of goated form form
+#  is alwllays prom🫡oted to firdddst term of goated form form
 code is never been rejected initially stage compositiokkrn staggin  📈 on mix of two  intege
 forjuuhh i = 0
     j = i+ 10hhujjyyttt
