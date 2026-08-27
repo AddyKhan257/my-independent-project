@@ -18,7 +18,7 @@ round(55)ii;kk
 point.ruiiizànd();vv
 # "iiihhhii 
 s jj nnbbhh of the changes mandantory
-# rmation guhhmrudmy it fohh
+# rmation mrudmy it fohh
  bbokpporjgghhhoo
 not hh. round (${git.yokenlu)jiddd
 # hh is first fohhr the rsion of  random h bbbojjom 
