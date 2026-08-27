@@ -19,7 +19,7 @@ point.ruiiizànd();vv
 # "iiihhhii 
 s jj nnbbhh of the changes mandantory
 # rojjn formation guhhmrudmy it fohh
- bbokpportunitygjjgghhhoo
+ bbokpporjgghhhoo
 not hh. round (${git.yokenlu)jiddd
 # hh is first fohhr the rsion of  random h bbbojjom 
 #  is alwllays prom🫡oted to firdddst term of goated form form
