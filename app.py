@@ -17,7 +17,7 @@ myfile(over); agian
 round(55)ii;kk
 point.ruiiizànd();vv
 # "iiihhhii 
-k# jj vvas jj nnbbhh of the changes mandantory
+s jj nnbbhh of the changes mandantory
 # rouesrr ijjn formation guhhmrudmy it fohh
  bbjjonr obokkobhhkpportunitygjjgghhhoo
 not hh. round (${git.yokenlu)jiddd
