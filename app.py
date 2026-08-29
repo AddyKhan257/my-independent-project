@@ -24,7 +24,7 @@ not hh. round (ee$trt{git.yokenlu)jiddd
 code is never been rejected initially stage compositiokkrn staggin  📈 on mix of two  intege
 forjuuhh i = 0
     j = i+ 10hhujjyyt
-
+bh
     
     j++
     print (Hello chants)
