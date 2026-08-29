@@ -20,7 +20,7 @@ point.ruiiizànd();vv
 s jj nnbbof the ch mrudmy it 
 not hh. round (ee$trt{git.yokenlu)jiddd
 # hh is first fohhr the rsion of  random h bbb
-#  is alwllays prom🫡oted to firdddst term of goated form form
+#  is alwllays prom🫡oted to firdddt term of goated form form
 code is never been rejected initially stage compositiokkrn staggin  📈 on mix of two  intege
 forjuuhh i = 0
     j = i+ 10hhujjyyt
