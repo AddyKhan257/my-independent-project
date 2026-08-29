@@ -17,8 +17,7 @@ myfile(over); agian
 round(55)ii;kk
 point.ruiiizànd();vv
 # "iiihhhii 
-s jj nnbbof the changes mandantoryyy
-# rmahhtion mrudmy it 
+s jj nnbbof the ch mrudmy it 
 not hh. round (ee$trt{git.yokenlu)jiddd
 # hh is first fohhr the rsion of  random h bbb
 #  is alwllays prom🫡oted to firdddst term of goated form form
