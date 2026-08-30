@@ -14,7 +14,7 @@ pri nn rouhhnd.log
 lul
 printkkii(kiikexport=roll)
 myfile(over); agian
-round(55)ii;kk
+round(55)ii
 point.ruiiizànd();vv
 # "iiihhhii 
 s jj nnbbof the ch mrudmy it 
