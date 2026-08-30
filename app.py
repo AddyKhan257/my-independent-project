@@ -12,7 +12,7 @@ exit wit;A
 kl yyhnnee
 pri nn rouhhnd.log
 lul
-printkkii(kiikexport=roll)
+printkkikiikexport=roll)
 myfile(over); agian
 round(55)ii
 point.ruiiizànd();vv
