@@ -8,7 +8,7 @@ value yy
 pull export;
 improve exet on time(over);yyj
 reveron time;uu
-exit with.55mmm;A
+exit wit;A
 kl yyhnnee
 pri nn rouhhnd.log
 lul
