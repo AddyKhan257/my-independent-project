@@ -7,7 +7,7 @@ data = exssss.py
 value yy
 pull export;
 improve exet on time(over);yyj
-revert on time;uu
+reveron time;uu
 exit with.55mmm;A
 kl yyhnnee
 pri nn rouhhnd.log
