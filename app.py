@@ -2,7 +2,8 @@ deeedeyekkjjhutttc gcjujkdefines dajsjsrrrefrkkrandomnghhhittrddtthhyhhftddeesou
 int y = -154;
 (group)[fbbile.com]
 import lumpy.pym
-expose 155;
+expose 155; ok no
+
 data = exssss.py
 value yy
 pull export;
