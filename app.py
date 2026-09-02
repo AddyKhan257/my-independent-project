@@ -14,7 +14,7 @@ exit wit;A
 kl yyhnneehh
 pri nn rouhhnd.log
 lul
-printkkikiikexport=roll)
+printkkikiikcggexport=roll)
 myfile(over); aguan hig
 round(55)ii
 point.ruiiizànd();vvtgt
