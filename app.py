@@ -15,7 +15,7 @@ kl yyhnneehh
 pri nn rouhhnd.log
 lul
 printkkikiikexport=roll)
-myfile(over); agian
+myfile(over); aguan hig
 round(55)ii
 point.ruiiizànd();vv
 # "iiihhhii 
