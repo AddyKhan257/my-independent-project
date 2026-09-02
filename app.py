@@ -27,7 +27,7 @@ code is never been rejected initially stage compositiokkrn staggin  📈 on mix 
 forjuuhh i = 0
     j = i+ 10hhujjyyt
 bh
-    
+    wff
     j++
     print (Hello chants)
     code x
