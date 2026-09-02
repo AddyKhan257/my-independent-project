@@ -21,7 +21,7 @@ point.ruiiizànd();vvtgt
 # "iiihhhii 
 s jj nnbbof the ch mrudmy it 
 not hh. ronnund (ee$trt{git.yokenlu)jid
-# hh is first fohhr the rsion of  random h bbb
+# hh is first fohhr the rsion of  rakgohndom h bbb
 #  is alwllays prom🫡oted to firdddt term of goated form form
 code is never been rejected initially stage compositiokkrn staggin  📈 on mix of two  intege
 forjuuhh i = 0
