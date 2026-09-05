@@ -14,7 +14,7 @@ exit wit;A
 kl yyhnneehh
 pri nn rouhhn
 printkkikiikcggexport=roll)
-myfile(over); aguan hig
+myer); aguan hig
 round(55)iimm
 point.ruiiizànd();vvtgt
 # " 
