@@ -27,7 +27,8 @@ forjuuhh i = 0kk
     j = i+ 10hhujjyyt
 bh
     wff
-    j++
+    j++ let contribute
+
     print (Hello chants)
     code x
 
