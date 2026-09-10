@@ -12,7 +12,7 @@ improve exet on time(over);yyj
 revero
 exit wit;A
 kl 
-pri nn rhouhhhh
+pri nn rhouhhhhhhvu8
 printggerhxport=roll)
 myer); aguan yyhig
 round(55)iimm
@@ -46,5 +46,7 @@ nhnh yrgevvsh bebbb done pokie
 program is wave treee of the structure  low quality 1*2 += 55
 besigr regular over all rpri
 npm rounds  gren33252
-sum(6+99)= 76;
+sum(6+99)= 76; 009';
+
+
 hello python
