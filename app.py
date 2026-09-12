@@ -6,8 +6,7 @@ import lumpy.pym
 expose 155; ok no
 
 data = exssss.py
-value yyffht
-pull export;eneje
+value yyffh
 improve exet on time(over);yyjyrv
 revero
 exit wit;A
