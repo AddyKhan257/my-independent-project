@@ -44,7 +44,7 @@ nhnh yrgbnjevvsh bebbb done pokie
 
 program is wave treee of the structure  low quality 1*2 += 55
 besigr regular over all rpri
-npm rounds  gren33252
+npm rounds  gren33252h ybyy
 sum(6+99)= 76; 009';
 hmtm() file.exposw
 over floid grade
