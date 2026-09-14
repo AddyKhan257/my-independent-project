@@ -11,9 +11,7 @@ data = exssss.py repost drag over leaf
 pri nn rhouhhhhhhvu8
 printggerhxport=roll)
 myer); aguan yyhig
-round(55)iimmall done in format and gives all one line dows
-
-point.ruiiizànd(h);vvvfutgthdtec
+round(55)iimmall done in format and gives all 
 # " uu
 s fbb the chnn 22hhhgg55
 not hh. ronnund (ee$trt{git.yokenlu)jid
