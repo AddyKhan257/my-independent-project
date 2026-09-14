@@ -5,7 +5,8 @@ int y = -154;
 import lumpy.pym
 expose 155; ok no
 j 
-data = exssss.py
+data = exssss.py repost
+
 value yyffh
 improve exet on time(over);yyjyrv
 revero
