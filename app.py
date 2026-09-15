@@ -19,8 +19,7 @@ not hh. ronnund (ee$trt{git.yokenlu)jid
 #  is alwllays prom🫡kkoted to firdddt term of goated form form
 code is never been rejected inmkitially stage compositiokkrn staggin  📈 on mix of two  intege
 forjuuhh i = 0kk 
-    j = i+ 10hhujjyyt
-bh
+    j = i+ 10hhujj
     wff
     j++ let contribute
 
