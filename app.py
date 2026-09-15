@@ -45,5 +45,5 @@ hmtm() file.exposw
 
 over floid grade
 hello python like forex 
-family one 
+family one all rounder 
 team Dm 
