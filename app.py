@@ -44,5 +44,5 @@ sum(6+99)= 76; 009';
 hmtm() file.exposw
 
 over floid grade
-hello python like
+hello python like forex 
 family one 
