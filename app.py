@@ -51,5 +51,5 @@ hmtm() file.exposw
 heya
 over floid grade
 hello python like forex 
-family one all rounder 
+family one all rounder ()
 team Dm 
