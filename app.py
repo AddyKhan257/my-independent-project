@@ -3,7 +3,7 @@ ekdeeedeyekkjjhutttc gcjujkdefines dajsjsrrrefrkkrandomnghhhittrddtthhyhhftddees
 int y = -154; com,neders
 
 (group)[fbbile.com]kx8
-import lumpy.pym
+import lumpy.pym ok
 expose 155; ok no
 j []
 data = exssss.py repost drag over leaf leap down if use
