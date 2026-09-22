@@ -6,7 +6,8 @@ tuxyyyy
 
 import lumpy.pym okdddghjtv
 expose 155; ok nogg[[reo]]
-j []
+j [] hello from json
+
 data = exssss.py repost drag over leaf leap down if use
  ()retxeee
 rexo fit
