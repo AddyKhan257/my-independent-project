@@ -20,7 +20,7 @@ data = exssss.py repost drag over leaf leap down inywf hyf
 rexo fit
 overput
  file(kox44.xeroc linning and linkdin
-      over stack flow and control algorithm
+      over stack flow and cxoxoontrol algorithm
       
 
 rexty
