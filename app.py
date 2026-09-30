@@ -10,6 +10,7 @@ rest api
 round off
 recuruiter
 design
+manifest
 vut
 regulates
 black and blue
