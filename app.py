@@ -84,7 +84,7 @@ nhnh yrgbnjevvsh bebbb done pokie()
 
 program is wave treee of the structure  low quality 1*2 += 55 beep
 besigr regular over all rpri
-npm rounds  gren33232
+npm rou
 sum(6+99)= 76; 009';
 hmtm() file.exposw urege()
 heya
