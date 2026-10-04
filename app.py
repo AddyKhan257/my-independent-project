@@ -10,8 +10,7 @@ stack
 ok ok
 d
 rest api
-rest
-secured
+
 you scecure
 round offd55dk 
 recuruiter1d1 2
