@@ -5,6 +5,7 @@ rooast levelehyf
 ugooo herenjbub
 tuxyyyyhrbjjihihib
 file systemihihihii8ih
+format mkdir
 stackuhuhuhuhu
 (group)[fbbile.com]kx8 for n j u it gt4g gpt 5 hustle kube starter added uturnjhuih8h8h8hh
 ok ok
