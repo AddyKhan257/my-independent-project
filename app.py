@@ -6,6 +6,7 @@ ugooo herenjbub
 pycho
 tuxyyyyhrbjjihihibimnw fg
 file systemihihihii8ihnjjer
+yes ok
 lost
 kkt
 comerade
