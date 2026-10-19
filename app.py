@@ -12,7 +12,7 @@ rusted4g
 yet
 RAW datarqer
 THE REVEL 54v 
- tresroot hello
+ tresroot helloef2q
 tool
 root
  ()retxeee konow ti unknown
