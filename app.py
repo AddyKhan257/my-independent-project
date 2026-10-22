@@ -13,7 +13,7 @@ mohammad adnan khan
 
 HERBISTg4y
 ERESTLOSRgarmi
-shahnaeqaza'
+shahnaeqaza'bhut
 shahnawaz 
 shahnaz\
 shahnawazsjdshahnawaz
