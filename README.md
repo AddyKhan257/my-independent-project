@@ -7,3 +7,4 @@ And it's all for the open sources 🫡⏰ THANK YOU keep support n nn
 an open sourece contribution
 In this all the python script was stored and captured by me has designed
 changes in index
+full partitoon
