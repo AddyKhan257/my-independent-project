@@ -13,6 +13,7 @@ bahut hi shi
 mohammagmm,m
 time space
 hola amigo 
+KILO AS GUST
 kaise ho thik ho
 bhai bahut hi set bandiya ho rhi baht hi wet
 
