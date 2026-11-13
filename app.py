@@ -9,6 +9,7 @@ WELCOME SERVER
 nice 
 ugooo herenjbu
 mohammad\mk
+bahut hi shi
 mohammagmm,m
 time space
 hola amigo 
