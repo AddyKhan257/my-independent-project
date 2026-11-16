@@ -1,7 +1,7 @@
 mesurement == 10;
 less then0 oit;
 rahul 
-
+space (cut/3);
 
 for(x);
 adnan khan
