@@ -1,4 +1,5 @@
-
+mesurement == 10;
+less then0 oit;
 rahul 
 
 
