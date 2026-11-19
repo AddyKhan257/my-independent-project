@@ -64,7 +64,6 @@ besigr regular over all rpri
 npm rou
 sum(6+99)= 76; 009';
 hmtm() file.exposw urege()
-heya
 over floid grade
 hello python like forex 
 family one all rounder ()
