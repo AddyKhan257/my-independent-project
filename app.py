@@ -12,7 +12,7 @@ thyrox
 rusted4g
 yet
 RAW datarqer
-THE REVEL 54v 
+THE REVEL 54v 35();
  tresroot helloef2q
 tool
 root
