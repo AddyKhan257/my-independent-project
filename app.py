@@ -18,8 +18,6 @@ tool
 root
  ()retxeenow to    
 over stack flow and cxoxoontrol algorithm
-
-rester
 must
 rexty
 gangsterffu
