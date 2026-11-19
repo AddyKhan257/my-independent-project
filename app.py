@@ -16,8 +16,8 @@ THE REVEL 54v 35();
  tresroot helloef2q
 tool
 root
- ()retxeee konow ti unknown
- (yet another)
+ ()retxeenow ti unnown
+ 
       over stack flow and cxoxoontrol algorithm
       ffu
 rester
