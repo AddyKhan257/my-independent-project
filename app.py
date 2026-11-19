@@ -16,10 +16,9 @@ THE REVEL 54v 35();
  tresroot helloef2q
 tool
 root
- ()retxeenow ti unnown
- 
-      over stack flow and cxoxoontrol algorithm
-      ffu
+ ()retxeenow to    
+over stack flow and cxoxoontrol algorithm
+
 rester
 must
 rexty
