@@ -1,4 +1,5 @@
-kbyhryvceegeeerdddhdhmesurement == 10;
+ == 10;
+the run machine
 
 
 less then0 (9oit) / call();
