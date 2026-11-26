@@ -1,6 +1,6 @@
 #day1
 functional work==54;
-
+kiro-latest;
 import cctv-kiro
 
 vice versa
