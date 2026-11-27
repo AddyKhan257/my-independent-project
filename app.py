@@ -1,4 +1,4 @@
-#day1
+return on #day1
 #functional work==54;
 kiro-latest;
 hyper-doies
