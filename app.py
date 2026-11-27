@@ -1,6 +1,7 @@
 #day1
-functional work==54;
+#functional work==54;
 kiro-latest;
+hyper-doies
 import cctv-kiro
 
 vice versa
