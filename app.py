@@ -8,3 +8,6 @@ vice versa
 # ALLL COMMENTS ALL NOT SUPIOSED
 dean works over inclined:
 notificy;
+on pricise:
+on full controll;
+
